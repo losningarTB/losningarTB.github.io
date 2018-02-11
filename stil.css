@@ -1,0 +1,274 @@
+*{
+  padding:0;
+  margin:0;
+
+}
+
+
+#front {
+  background-color:white;
+  margin:0 px;
+  padding: 0 px;
+  background-image: url("Namnlös.png");
+  background-size: 100%;
+  background-repeat: no-repeat;
+
+
+}
+
+
+#Logo{
+background-color: black;
+color: white;
+margin:0px;
+padding:0px;
+width:100%;
+height:100px;
+
+
+}
+#Logo h1{
+  font-size: 80px;
+  font-style:Arial;
+  padding:0px;
+  margin:0px;
+  text-align: center;
+
+}
+#Logo h1 a{
+  color:white;
+  text-decoration: none;
+}
+
+
+.länkar
+{
+text-align: center;
+
+}
+.länkar ul{
+  list-style: none;
+  margin:0px;
+  padding:0px;
+
+}
+.länkar li{
+  float:left;
+  background-color: black;
+  width:19.95%;
+  height:32px;
+  border-style: solid;
+  border-width: 5px 0 0px 0;
+  color:white;
+}
+
+#lösningar-bred{
+  width:30%;
+}
+#Lektioner-bred{
+  width: 30%;
+}
+
+.lösningar li{
+  width:100%;
+  height:37px;
+  border-width:0 0 1px 0;
+  margin:0px;
+  padding:0px;
+  background-color: grey;
+}
+.lösningar li a{
+  padding:4px 0 4px 0;
+}
+.länkar li a{
+  color:white;
+  text-decoration: none;
+  font-style: italic;
+  font-size: 25px;
+  display:block;
+
+
+}
+.lösningar li a:hover{
+  background-color:black;
+}
+
+.länkar ul li ul li{
+  display:none;
+}
+.länkar ul li:hover ul li{
+  display:block;
+}
+S
+#Home{
+  width: 60%;
+  height:50px;
+  padding:0;
+  margin:0 20% 0 20%;
+}
+#Home h1{
+  text-align: center;
+  padding-top: 45%;
+  font-size: 100px;
+}
+#hem{
+  padding: 3% 20% 5% 20%;
+}
+#hem p{
+  font-size: 30px;
+  font-style: italic;
+  text-align: center;
+}
+#i{
+  margin:8% 20% 0 20%;
+  padding:0;
+}
+#i h1{
+  text-align:center;
+  font-size: 50px;
+  text-decoration: underline;
+}
+#i p{
+  margin:4% 0 0 0;
+  font-size: 20px;
+  text-align: center;
+}
+#bild{
+padding:50px 0 50px 43.5%;
+
+height: 300px;
+margin:0;
+}
+#ma1c ul{
+  padding: 2% 0 0 0;
+  margin:0;
+  list-style: none;
+}
+#ma1c li{
+
+  float:left;
+  width:33%;
+  height:40px;
+  text-align: center;
+
+}
+
+#ma1c li a{
+  font-size: 20px;
+  text-decoration: none;
+  color:black;
+}
+#ma1c li p{
+  font-size: 30px;
+  font-weight: bold;
+}
+#uppgifter li{
+  width:100%;
+}
+#två{
+  margin-top: 20%;
+}
+#två ul{
+  padding: 8% 0 0 0;
+  margin-top: 0%;
+  list-style: none;
+}
+#två li{
+
+  float:left;
+  width:33%;
+  height:40px;
+  text-align: center;
+
+}
+
+#två li a{
+  font-size: 20px;
+  text-decoration: none;
+  color:black;
+}
+#två li p{
+  font-size: 30px;
+  font-weight: bold;
+}
+#same li{
+  width:100%;
+}
+#tre{
+  margin-top: 20%;
+}
+#tre ul{
+  padding: 8% 0 0 0;
+  margin-top: 0%;
+  list-style: none;
+  height:40%;
+  padding-bottom: 30%;
+}
+#tre li{
+
+  float:left;
+  width:33%;
+  height:40px;
+  text-align: center;
+
+}
+
+#tre li a{
+  font-size: 20px;
+  text-decoration: none;
+  color:black;
+}
+#tre li p{
+  font-size: 30px;
+  font-weight: bold;
+}
+#same2 li{
+  width: 100%;
+}
+#snart h1{
+  text-align: center;
+  font-size: 40px;
+  padding:10% 30% 0 30%;
+  padding-bottom: 27%;
+}
+.författare{
+  clear:both;
+  background-color: black;
+  text-align: left;
+  padding: 10px;
+  color: white;
+}
+
+.info{
+  margin: 5% 0 3% 0;
+  text-align: center;
+  padding: 0 20% 0 20%;
+}
+.info h1{
+  font-size: 40px;
+}
+.info p{
+  font-size: 25px;
+  padding-top:7px;
+  font-weight: normal;
+
+}
+#logga{
+  padding:0 0 50px 40%;
+  margin:0;
+}
+#kontakt{
+  margin:5% 0 29% 5%;
+  padding:0;
+}
+#kontakt h1{
+  font-size: 30px;
+  padding-bottom: 2%;
+  text-decoration: underline;
+
+}
+#kontakt p{
+  font-size: 25px;
+
+
+}
