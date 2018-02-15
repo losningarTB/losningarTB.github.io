@@ -388,6 +388,13 @@ margin:0;
 }
 #kontakt p{
   font-size: 25px;
+}
 
-
+#tips{
+text-align:center;
+}
+#tips p{
+font-size:25px;
+font-weight: bold;
+  
 }
