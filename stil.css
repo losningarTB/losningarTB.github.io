@@ -411,21 +411,21 @@ font-weight: bold;
   clear:left;
 
 }
-#ma1c li{
+#ma2c li{
   height:40px;
 
 }
 
-#ma1c li a{
+#ma2c li a{
   font-size: 20px;
   text-decoration: none;
   color:black;
 }
-#ma1c li p{
+#ma2c li p{
   font-size: 30px;
   font-weight: bold;
 }
-#uppgifter li{
+#uppgifter(2) li{
   width:100%;
 }
 #kapitel22{
@@ -480,9 +480,7 @@ font-weight: bold;
   font-size: 30px;
   font-weight: bold;
 }
-#uppgifter li{
-  width:100%;
-}
+
 #kapitel42{
   float: left;
   width:500px;
