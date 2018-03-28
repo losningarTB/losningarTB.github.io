@@ -397,13 +397,14 @@ margin-bottom:40px;
 #tips p{
 font-size:25px;
 font-weight: bold;
-}#ma1c{
+}
+#ma2c{
   width: 500px;
   float: left;
   margin:auto;
   height:400px;
 }
-#ma1c ul{
+#ma2c ul{
   padding: 2% 2% 0 2%;
   list-style: none;
 
