@@ -397,5 +397,143 @@ margin-bottom:40px;
 #tips p{
 font-size:25px;
 font-weight: bold;
-  
+}#ma1c{
+  width: 500px;
+  float: left;
+  margin:auto;
+  height:400px;
+}
+#ma1c ul{
+  padding: 2% 2% 0 2%;
+  list-style: none;
+
+  text-align: center;
+  clear:left;
+
+}
+#ma1c li{
+  height:40px;
+
+}
+
+#ma1c li a{
+  font-size: 20px;
+  text-decoration: none;
+  color:black;
+}
+#ma1c li p{
+  font-size: 30px;
+  font-weight: bold;
+}
+#uppgifter li{
+  width:100%;
+}
+#kapitel22{
+  width:500px;
+  float:left;
+  margin: auto;
+  height:400px;
+}
+#kapitel22 ul{
+  padding: 2% 2% 0 2%;
+  list-style: none;
+  text-align: center;
+}
+#kapitel22 li{
+  height:40px;
+
+}
+
+#kapitel22 li a{
+  font-size: 20px;
+  text-decoration: none;
+  color:black;
+}
+#kapitel22 li p{
+  font-size: 30px;
+  font-weight: bold;
+}
+
+#kapitel32{
+  float: left;
+  width:500px;
+  margin: auto;
+  height: 400px;
+}
+#kapitel32 ul{
+  padding: 2% 2% 0 2%;
+  list-style: none;
+  text-align: center;
+
+}
+#kapitel32 li{
+  height:40px;
+
+}
+
+#kapitel32 li a{
+  font-size: 20px;
+  text-decoration: none;
+  color:black;
+}
+#kapitel32 li p{
+  font-size: 30px;
+  font-weight: bold;
+}
+#uppgifter li{
+  width:100%;
+}
+#kapitel42{
+  float: left;
+  width:500px;
+  margin: auto;
+  height: 400px;
+}
+#kapitel42 ul{
+  padding: 2% 2% 0 2%;
+  list-style: none;
+  text-align: center;
+}
+#kapitel42 li{
+  height:40px;
+
+}
+
+#kapitel42 li a{
+  font-size: 20px;
+  text-decoration: none;
+  color:black;
+}
+#kapitel42 li p{
+  font-size: 30px;
+  font-weight: bold;
+}
+#same(2) li{
+  width:100%;
+}
+
+#kapitel52{
+  float: left;
+  width:500px;
+  margin: auto;
+  height: 400px;
+}
+#kapitel52 ul{
+  padding: 2% 2% 0 2%;
+  list-style: none;
+  text-align: center;
+}
+#kapitel52 li{
+  height:40px;
+
+}
+
+#kapitel52 li a{
+  font-size: 20px;
+  text-decoration: none;
+  color:black;
+}
+#kapitel52 li p{
+  font-size: 30px;
+  font-weight: bold;
 }
