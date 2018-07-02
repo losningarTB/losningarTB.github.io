@@ -399,7 +399,7 @@ font-size:25px;
 font-weight: bold;
 }
 #ma2c{
-  width: 500px;
+  width: 400px;
   float: left;
   margin:auto;
   height:750px;
@@ -420,7 +420,7 @@ font-weight: bold;
 #ma2c li a{
   font-size: 20px;
   text-decoration: none;
-  color:blue;
+  color:black;
 }
 #ma2c li p{
   font-size: 30px;
@@ -430,10 +430,10 @@ font-weight: bold;
   width:100%;
 }
 #kapitel22{
-  width:500px;
+  width:450px;
   float:left;
   margin: auto;
-  height:700px;
+  height:750px;
 }
 #kapitel22 ul{
   padding: 2% 2% 0 2%;
@@ -457,7 +457,7 @@ font-weight: bold;
 
 #kapitel32{
   float: left;
-  width:500px;
+  width:450px;
   margin: auto;
   height: 700px;
 }
